@@ -1,3 +1,6 @@
+# IMPORTANT
+Be sure to run `npm install` from the root directory of this project before you try to run it!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
